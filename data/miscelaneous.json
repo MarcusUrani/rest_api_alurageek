@@ -20,31 +20,31 @@
         "image": "miscelaneous_3",
         "miniature": "miscelaneous_3_miniature",
         "alt":"Boneco do Sonic, que possui pelo na cor azul e pele na cor amarelada, em frente a um fundo azul e a um boneco da personagem Tails, que está desfocada.",
-        "name": "Controle e console XYZ",
-        "price": "60,00"
+        "name": "Boneco Sonic",
+        "price": "85,00"
     },
     {
         "id": "10",
         "image": "miscelaneous_4",
         "miniature": "miscelaneous_4_miniature",
         "alt":"Despertador, na cor rosa, marcando o horário 04:20 em frente a um fundo azul.",
-        "name": "Controle e console XYZ",
-        "price": "60,00"
+        "name": "Despertador Rosa",
+        "price": "150,00"
     },
     {
         "id": "11",
         "image": "miscelaneous_5",
         "miniature": "miscelaneous_5_miniature",
         "alt":"Homem utilizando um óculos de realidade virtual, em seu quarto, vestindo uma camisa de mangas compridas com o torso na cor branca e as mangas na cor preta.",
-        "name": "Controle e console XYZ",
-        "price": "60,00"
+        "name": "Oculus Quest 2",
+        "price": "1999,99"
     },
     {
         "id": "12",
         "image": "miscelaneous_6",
         "miniature": "miscelaneous_6_miniature",
         "alt":"Pessoa fantasiada de Pikachu, personagem de Pokémon, que é na cor amarela e tem bolas na bochecha na cor vermelha.",
-        "name": "Controle e console XYZ",
-        "price": "60,00"
+        "name": "Fantasia Pikachu",
+        "price": "250,00"
     }
 ]
