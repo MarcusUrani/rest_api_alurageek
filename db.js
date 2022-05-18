@@ -1,13 +1,7 @@
 const items = require("./data/items");
-const consoles = require("./data/consoles");
-const miscelaneous = require("./data/miscelaneous");
-const starWars = require("./data/star-wars");
 
 module.exports = {
   items,
-  consoles,
-  miscelaneous,
-  starWars,
 };
 
 // const items = require("./data/items");
