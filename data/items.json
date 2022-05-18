@@ -2,9 +2,9 @@
     {
         "id": "1",
         "image": "console_1",
+        "alt":"Controle do console XBox, na cor branca apoiado sobre uma mesa branca. Visto de cima.",
         "tag": "#111111",
         "miniature": "console_1_miniature",
-        "alt":"Controle do console XBox, na cor branca apoiado sobre uma mesa branca. Visto de cima.",
         "name": "Controle Xbox One",
         "price": "120,00",
         "slug": "consoles",
